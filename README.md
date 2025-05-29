@@ -2,8 +2,6 @@
 
 This is a lightweight, production-ready **Flask application** that displays a **beautiful custom 404 error page** with a redirect button to a home URL.
 
-![screenshot](https://user-images.githubusercontent.com/your-image-path/404-preview.png)
-
 ---
 
 ## 🔧 Features
